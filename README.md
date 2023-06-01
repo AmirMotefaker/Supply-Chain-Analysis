@@ -20,3 +20,12 @@
 
 4. Prescriptive Analytics takes predictive analytics one step further by providing recommendations on how to optimize supply chain operations. By using optimization algorithms and simulations, prescriptive analytics can help organizations identify the best course of action to improve supply chain performance. This can help organizations make better decisions and improve their overall supply chain efficiency.
 
+# How to conduct supply chain analysis
+
+- The above analytics should be used when conducting supply chain analysis. The basic steps of an analysis are:
+
+    - Define your objectives.
+    - Research the market.
+    - Conduct in-depth supplier analysis.
+    - Identify key market indicators
+    - Pull together your findings and outline final suggestions - I'd recommend taking a look at using SharpCloud as a visual presentation tool.
